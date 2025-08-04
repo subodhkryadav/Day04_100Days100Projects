@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Progress](https://img.shields.io/badge/Day-04-green)
 ![Challenge](https://img.shields.io/badge/100_Days-Project_Challenge-orange)
-![Logic](https://img.shields.io/badge/Logic-Based-Programming-purple)
 
 ---
 
